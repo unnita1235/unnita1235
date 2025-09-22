@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Unnita!
+# 👋 Hi, I'm Unni T A!
 
 **Full Stack Developer | AI Enthusiast | Continuous Learner**
 
