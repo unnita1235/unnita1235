@@ -1,46 +1,41 @@
-# 👋 Unni T A | Full Stack Developer
+# Unni T A | Full Stack Developer
 
-**Ernakulam, Kerala | 📧 Unnita1235@gmail.com | 📱 +91 9539173628**
+**📍 Ernakulam, Kerala | 📧 Unnita1235@gmail.com | 📱 +91 9539173628**
 
-Specializing in JavaScript, React, Node.js, and AI Integration. Passionate about building scalable web applications with intelligent features.
+Full Stack Developer specializing in JavaScript, React, Node.js, and AI Integration. Recent graduate seeking opportunities in Kochi/Ernakulam area.
 
-## 🛠️ Technical Expertise
+## Technical Skills
 
 **Frontend:** React, JavaScript, HTML5, CSS3, Bootstrap  
 **Backend:** Node.js, Express.js, REST APIs, MongoDB  
-**AI/ML:** Python, NLP, Machine Learning, Data Processing  
-**Tools:** Git, GitHub, VS Code, Postman, npm
+**AI/ML:** Python, Machine Learning, NLP  
+**Tools:** Git, GitHub, VS Code, Postman
 
-## 📈 GitHub Activity
+## Projects
 
-![Unni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unnita1235&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+### 🤖 AI Resume Parser
+Intelligent system that automatically extracts information from resumes using NLP.
 
-## 🏆 Portfolio Projects
+### 💼 Job Recommendation System  
+AI-powered platform that matches job seekers with suitable positions.
 
-### 🤖 [AI Resume Parser](https://github.com/unnita1235/ai-resume-parser) 
-*Intelligent NLP system for automated resume analysis and data extraction*
-- **Tech:** Python, spaCy, Machine Learning
-- **Features:** Multi-format support, entity recognition, skill matching
-- **Status:** Production-ready prototype
+### 🌐 Web Development Projects
+Collection of full-stack applications demonstrating modern web development.
 
-### 💼 [Job Recommendation System](https://github.com/unnita1235/job-recommendation-system)
-*AI-powered job matching platform with intelligent algorithms*
-- **Tech:** React, Node.js, MongoDB, AI algorithms
-- **Features:** User profiling, skill-based matching, real-time search
-- **Status:** Full-stack application
+## Education
 
-## 🎯 Career Focus
+**Integrated MCA**  
+APJ Abdul Kalam Technological University (KTU)  
+SNGIST, Ernakulam (2021-2024)
 
-**Seeking:** Full-Stack Developer roles in Kochi/Ernakulam area  
-**Availability:** Immediate joining  
-**Relocation:** Open within Kerala
+## Availability
 
-## 📞 Connect
+- **Immediate joining**
+- **Open to hybrid/onsite roles in Kochi/Ernakulam**
+- **Willing to relocate within Kerala**
+
+## Contact
+
 - **Email:** Unnita1235@gmail.com
-- **Phone:** +91 9539173628  
-- **Location:** Ernakulam, Kerala
-- **Open to:** Hybrid/Onsite opportunities
-
----
-
-*"Clean code always looks like it was written by someone who cares." - Robert C. Martin*
+- **Phone:** +91 9539173628
+- **GitHub:** github.com/unnita1235
