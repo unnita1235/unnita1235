@@ -1,6 +1,6 @@
 # Hi 👋 I'm Unni T A — Backend · Full-Stack · Mobile Developer
 
-📍 SNGIST, Mannam, Manjali (P.O.), North Paravur, Ernakulam, Kerala — 683520  
+📍 vypin, Ernakulam, Kerala — 683520  
 📧 Unnita1235@gmail.com | 📞 9539173628 | 🔗 https://github.com/unnita1235
 
 ---
