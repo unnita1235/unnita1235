@@ -1,8 +1,11 @@
-# 👋 Hi, I'm Unni T A!
+# Hi 👋 I'm Unni T A — Backend / Full-Stack Developer  
+Ernakulam | Unnita1235@gmail.com | 9539173628 | github.com/unnita1235
 
-**Full Stack Developer | AI Enthusiast | Continuous Learner**
+## Featured
+- **AI-Resume-Parser** — NLP resume parser (Python). Demo / README → link
+- **MatchLink** — Matchmaking frontend (Next.js + TypeScript). Live demo → link
+- **Job-Portal** — Job portal backend + frontend. README → link
 
-Welcome to my GitHub profile! I'm passionate about creating innovative solutions that blend web development with artificial intelligence.
 
 ## 🛠️ Tech Stack
 
