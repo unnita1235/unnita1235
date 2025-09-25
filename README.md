@@ -1,41 +1,49 @@
-# Unni T A | Full Stack Developer
+# 👋 Hello, I'm Unni T A!
 
-**📍 Ernakulam, Kerala | 📧 Unnita1235@gmail.com | 📱 +91 9539173628**
+**Full Stack Developer | AI Enthusiast | Based in Ernakulam, Kerala**
 
-Full Stack Developer specializing in JavaScript, React, Node.js, and AI Integration. Recent graduate seeking opportunities in Kochi/Ernakulam area.
+Welcome to my GitHub profile! I'm passionate about building scalable web applications with AI integration.
 
-## Technical Skills
+## 🛠️ Tech Stack
 
-**Frontend:** React, JavaScript, HTML5, CSS3, Bootstrap  
-**Backend:** Node.js, Express.js, REST APIs, MongoDB  
-**AI/ML:** Python, Machine Learning, NLP  
+**Frontend:** React, JavaScript, HTML5, CSS3  
+**Backend:** Node.js, Express.js, REST APIs  
+**Database:** MongoDB, SQL  
+**AI/ML:** Python, NLP, Machine Learning  
 **Tools:** Git, GitHub, VS Code, Postman
 
-## Projects
+## 📊 GitHub Stats
 
-### 🤖 AI Resume Parser
-Intelligent system that automatically extracts information from resumes using NLP.
+![Unni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unnita1235&show_icons=true&theme=radical)
 
-### 💼 Job Recommendation System  
-AI-powered platform that matches job seekers with suitable positions.
+## 🌟 Featured Projects
 
-### 🌐 Web Development Projects
-Collection of full-stack applications demonstrating modern web development.
+### 🤖 [AI Resume Parser](https://github.com/unnita1235/ai-resume-parser)
+Intelligent NLP system for automated resume analysis and data extraction.
 
-## Education
+### 🏢 [TenantVerse](https://github.com/unnita1235/TenantVerse)
+Multi-tenant SaaS platform with subscription management and personalized user guides.
 
-**Integrated MCA**  
-APJ Abdul Kalam Technological University (KTU)  
-SNGIST, Ernakulam (2021-2024)
+### 💕 [MatchLink](https://github.com/unnita1235/MatchLink)
+AI-powered matching platform with smart algorithms and user profiling.
 
-## Availability
+### 📊 [StockPilot](https://github.com/unnita1235/StockPilot)
+Inventory management system with analytics and forecasting capabilities.
 
-- **Immediate joining**
-- **Open to hybrid/onsite roles in Kochi/Ernakulam**
-- **Willing to relocate within Kerala**
+## 📫 Contact Information
 
-## Contact
+- 📧 Email: Unnita1235@gmail.com
+- 📱 Phone: +91 9539173628
+- 🌐 Location: Ernakulam, Kerala, India
+- 💼 GitHub: [github.com/unnita1235](https://github.com/unnita1235)
 
-- **Email:** Unnita1235@gmail.com
-- **Phone:** +91 9539173628
-- **GitHub:** github.com/unnita1235
+## 🎯 Currently Seeking
+
+- Full-time opportunities in Kochi/Ernakulam area
+- Full-Stack Developer roles
+- AI Engineer positions
+- Software Developer opportunities
+
+---
+
+⭐ *"First, solve the problem. Then, write the code." - John Johnson*
