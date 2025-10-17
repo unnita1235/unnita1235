@@ -33,7 +33,7 @@ Inventory management system with analytics and forecasting capabilities.
 ## 📫 Contact Information
 
 - 📧 Email: Unnita1235@gmail.com
-- 📱 Phone: +91 9539173628
+- 📱 Phone: +91 9567273628
 - 🌐 Location: Ernakulam, Kerala, India
 - 💼 GitHub: [github.com/unnita1235](https://github.com/unnita1235)
 
