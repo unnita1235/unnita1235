@@ -22,39 +22,48 @@
 **DevOps:** AWS, Docker, CI/CD, Vercel, Render, GitHub Actions
 **Tools:** Git, Postman, Stripe API, WebSockets, JWT
 
-## 📊 GitHub Stats
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=unnita1235&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=unnita1235&theme=radical&hide_border=true" />
-  <br/>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unnita1235&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
+
+## 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unnita1235&layout=compact&hide=HTML)
+![Stats](https://github-readme-stats.vercel.app/api?username=unnita1235&show_icons=true&count_private=true&line_height=28)
+
+---
 
 ## 🎯 Featured Projects
 
 ### 🤖 AI Resume Parser
+Live: https://ai-resume-parser-seven.vercel.app/ · Repo: `unnita1235/AI-Resume-Parser
 **Technologies:** Python, FastAPI, React, MongoDB, spaCy
 - 92% accuracy in resume data extraction
 - Reduced manual screening time by 85%
 - Containerized microservices architecture
 
 ### 🛍️ VendorConnect - Multi-Vendor Marketplace  
+Live: https://vendor-connect-three.vercel.app/ · Repo: `unnita1235/VendorConnect`
 **Technologies:** MERN Stack, Microservices, WebSockets, AWS
 - Supports 500+ concurrent users
 - 65% faster API response times
 - Real-time order management system
 
 ### 📊 StockPilot - Inventory Management
+Live: https://stock-pilot-wheat.vercel.app/ · Repo: `unnita1235/StockPilot` 
 **Technologies:** React, Node.js, MongoDB, Predictive Analytics
 - Reduced stockouts by 78% through predictive analytics
 - Automated reporting saving 20+ hours monthly
 - AWS deployment with CI/CD pipeline
 
 ### 💬 ConnectNow - Real-time Chat
+Live: https://connect-now-phi.vercel.app/ · Repo: `unnita1235/ConnectNow`
 **Technologies:** React, Node.js, Socket.io, Redis
 - 500+ concurrent users with sub-second latency
 - 10,000+ messages per minute throughput
 - 45% user engagement increase
+
+---
+## 📌 Quick Links
+- GitHub: https://github.com/unnita1235  
+- Live projects: https://ai-resume-parser-seven.vercel.app/ · https://vendor-connect-three.vercel.app/ · https://stock-pilot-wheat.vercel.app/ · https://connect-now-phi.vercel.app/ :contentReference[oaicite:6]{index=6}
 
 ---
 
