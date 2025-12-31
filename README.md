@@ -1,8 +1,8 @@
 # Hi, I'm Unni T A 👋
 
-**Frontend Developer | React & Next.js Specialist | AI Integration Enthusiast**
+**Frontend Developer | React & Next.js Specialist | AI Integration Enthusiast*
 
-Self-taught developer from Kerala, India, passionate about building modern web applications with clean code and great user experiences. Currently expanding into full-stack development.
+A developer from Kerala, India, passionate about building modern web applications with clean code and great user experiences. Currently expanding into full-stack development.
 
 ---
 
