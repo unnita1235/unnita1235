@@ -1,386 +1,145 @@
-# 🚀 Unni T A - Full Stack Developer & AI Integration Specialist
+# Unni T A
 
-> Building production-grade web applications with modern technologies | Next.js Expert | Full-Stack Architect | AI/ML Integration | Strong Problem Solver
->
-> **Location:** Ernakulam, Kerala, India | **Email:** [unnita1235@gmail.com](mailto:unnita1235@gmail.com) | **GitHub:** [@unnita1235](https://github.com/unnita1235)
->
-> ---
->
-> ## 📊 Quick Overview
->
-> - **7+ Production Projects** deployed and live
-> - - **Full-Stack Expertise:** Frontend + Backend + DevOps (Next.js, React, Node.js, Express, MongoDB, PostgreSQL)
->   - - **AI Integration Specialist:** Google Gemini, Genkit, AI workflow automation
->     - - **3+ Years** progressive development experience
->       - - **TypeScript-First Developer:** Strict type safety across all projects
->         - - **Proven Deployment Skills:** Vercel, Render, Railway, Docker, CI/CD pipelines
->          
->           - ---
->
-> ## 💼 Featured Projects
->
-> ### 🏆 Production-Ready Full-Stack Applications
->
-> #### 1. **StockPilot** - Inventory Management System
-> [Repository](https://github.com/unnita1235/StockPilot) | [Live Demo](https://stock-pilot-wheat.vercel.app)
->
-> A comprehensive full-stack inventory tracking system for small to medium businesses.
->
-> **What Makes It Special:**
-> - ✅ **Frontend Deployed:** Fully functional, live on Vercel
-> - - ✅ **Backend Complete:** Express.js API with all endpoints ready
->   - - ✅ **Production Architecture:** Docker containerization, CI/CD configured
->     - - 📊 Real-time stock tracking & analytics dashboards
->       - - 📈 CSV export & data visualization with Recharts
->         - - 🔐 JWT authentication system ready for deployment
->          
->           - **Tech Stack:** Next.js 15 | TypeScript | Tailwind CSS | shadcn/ui | Express.js | MongoDB | Docker | Jest
->          
->           - **Key Achievements:**
->           - - Architected complete MERN-like stack from requirements to deployment
->             - - Implemented complex state management without Redux
-> - Built responsive UI handling 1000+ SKUs efficiently
-> - - Demonstrates DevOps proficiency with containerization
->  
->   - ---
->
-> #### 2. **TenantVerse** - Property Management SaaS (Production Ready)
-> [Repository](https://github.com/unnita1235/TenantVerse) | [Live Demo](https://tenant-verse-one.vercel.app)
->
-> Enterprise-grade property management platform with Stripe integration.
->
-> **What Makes It Special:**
-> - ✅ **Production Deployment:** Frontend live, backend ready on Render
-> - - 💳 Complete Stripe payment integration
->   - - 🏢 Multi-property dashboard with real-time analytics
->     - - 📋 Tenant management with lease tracking
->       - - 💰 Financial management & expense tracking
->         - - 🔐 Role-based access control (RBAC)
->           - - 🐳 Docker Compose for 5-minute local setup
->            
->             - **Tech Stack:** Next.js 15 | TypeScript | Express.js | MongoDB | Stripe | Docker | GitHub Actions
->            
->             - **Key Achievements:**
->             - - Built complete production SaaS from scratch
->               - - Implemented payment processing securely
-> - Created Docker-based development environment
-> - - Comprehensive API documentation (50+ endpoints)
->   - - 95+ Lighthouse performance score
->    
->     - ---
->
-> #### 3. **QuickBite** - AI Restaurant Discovery Platform
-> [Repository](https://github.com/unnita1235/QuickBite) | [Live Demo](https://quick-bite-mu.vercel.app)
->
-> Modern restaurant discovery platform with Google Gemini AI integration.
->
-> **What Makes It Special:**
-> - 🤖 **AI-Powered Search:** Natural language restaurant recommendations using Google Gemini
-> - - 🚀 **Production Deployed:** Both frontend (Vercel) and backend (Render) live
->   - - ⚡ **Real-time Ratings:** Live restaurant data and delivery estimates
->     - - 🎨 Responsive mobile-first design
->       - - 📊 JWT authentication + API documentation (Swagger)
->         - - 🧪 Jest unit & integration tests
->          
->           - **Tech Stack:** Next.js 15 | TypeScript | Express.js | PostgreSQL | Prisma | Google Gemini API | Render
->          
->           - **Key Achievements:**
->           - - Successfully integrated Google Gemini for intelligent search
->             - - Full-stack deployment on production platforms
-> - Implemented complex search algorithms
-> - - Database optimization with Prisma ORM
->   - - API response time <200ms
->    
->     - ---
->
-> ### 🎨 Modern UI/UX Prototypes
->
-> #### 4. **MatchLink** - Profile Discovery UI
-> [Repository](https://github.com/unnita1235/MatchLink) | [Live Demo](https://match-link-tau.vercel.app)
->
-> Tinder-like profile browsing interface showcasing modern React patterns.
->
-> **Features:** Dynamic routing | Responsive cards | Filter UI | Modern design patterns
->
-> **Tech Stack:** Next.js 15 | TypeScript | Tailwind CSS
->
-> ---
->
-> #### 5. **ConnectNow** - Slack-Like Chat Interface
-> [Repository](https://github.com/unnita1235/ConnectNow) | [Live Demo](https://connect-now-phi.vercel.app)
->
-> Professional messaging UI with multi-panel responsive design.
->
-> **Features:** Channel messaging | Direct messages | User presence | Real-time UI patterns
->
-> **Tech Stack:** Next.js 15 | TypeScript | Tailwind CSS | shadcn/ui
->
-> ---
->
-> #### 6. **VendorConnect** - E-Commerce Marketplace UI
-> [Repository](https://github.com/unnita1235/VendorConnect) | [Live Demo](https://vendor-connect-three.vercel.app)
->
-> Modern marketplace interface with product browsing and cart functionality.
->
-> **Features:** Product grid | Advanced filtering | Cart management | Responsive design
->
-> **Tech Stack:** Next.js 15 | TypeScript | Tailwind CSS | Responsive layouts
->
-> ---
->
-> ### 🤖 AI & Specialized Applications
->
-> #### 7. **AI Resume Parser** - ATS Optimizer
-> [Repository](https://github.com/unnita1235/AI-Resume-Parser) | [Live Demo](https://ai-resume-parser-seven.vercel.app)
->
-> AI-powered resume optimization tool with Google Gemini integration.
->
-> **What Makes It Special:**
-> - 🤖 **Google Gemini AI:** ATS optimization, tone adjustment, action verb enhancement
-> - - 📄 Multi-format support: PDF, DOCX, TXT parsing
->   - - 📝 AI-generated cover letters from resume
->     - - 🎯 Real-time ATS compatibility scoring
->       - - 💾 Backend API with Express.js
->         - - 🧪 Comprehensive test suite (56+ tests)
->           - - 📊 Production deployed with fallback demo mode
->            
->             - **Tech Stack:** Next.js 15 | TypeScript | Express.js | Google Gemini | Genkit | Jest | Render
->            
->             - **Key Achievements:**
->             - - Seamless file parsing (PDF, DOCX, TXT)
->               - - Real-time AI processing with fallback to demo mode
-> - Complete backend API with health checks
-> - - 92%+ average parsing accuracy
->   - - Comprehensive error handling and logging
->    
->     - ---
->
-> ## 🛠️ Technical Stack
->
-> ### Frontend (Expert Level)
-> - **Frameworks:** Next.js 15 (App Router), React 18
-> - - **Language:** TypeScript (strict mode)
->   - - **Styling:** Tailwind CSS, CSS-in-JS
->     - - **Components:** shadcn/ui, Radix UI
->       - - **State:** React Hooks, Context API
->         - - **Forms:** React Hook Form + Zod validation
->           - - **Charts:** Recharts, Chart.js
->             - - **Testing:** Jest, Playwright, Supertest
->              
->               - ### Backend (Strong Level)
->               - - **Runtime:** Node.js 18+
->                 - - **Framework:** Express.js
->                   - - **Databases:** MongoDB, PostgreSQL
->                     - - **ORMs:** Mongoose, Prisma
->                       - - **Auth:** JWT, bcryptjs, Firebase Auth (planned)
->                         - - **APIs:** RESTful, OpenAPI/Swagger
->                           - - **Testing:** Jest, Supertest
->                            
->                             - ### AI & Integrations
->                             - - **Google Gemini:** Text generation, optimization, analysis
->                               - - **Genkit:** AI workflow orchestration
->                                 - - **APIs:** Stripe payments, Firebase (planned)
->                                  
->                                   - ### DevOps & Deployment
->                                   - - **Hosting:** Vercel (frontend), Render (backend), Railway
->                                     - - **Containerization:** Docker, Docker Compose
->                                       - - **CI/CD:** GitHub Actions
->                                         - - **Databases:** MongoDB Atlas, PostgreSQL (Neon)
->                                           - - **Monitoring:** Health checks, error tracking
->                                            
->                                             - ### Tools & Practices
->                                             - - **Version Control:** Git, GitHub
->                                               - - **Code Quality:** ESLint, Prettier, TypeScript compiler
->                                                 - - **Pre-commit:** Husky, lint-staged
->                                                   - - **Documentation:** Markdown, API docs, Architecture diagrams
->                                                    
->                                                     - ---
->
-> ## 🎯 Core Competencies
->
-> ### Full-Stack Development
-> ✅ End-to-end application architecture from requirements to deployment
-> ✅ Scalable database design and optimization
-> ✅ RESTful API design with proper HTTP semantics
-> ✅ Responsive UI with mobile-first approach
-> ✅ Complex state management patterns
->
-> ### Frontend Excellence
-> ✅ Modern React patterns (hooks, suspense, server components)
-> ✅ Type-safe development with strict TypeScript
-> ✅ Performance optimization (code splitting, lazy loading, memoization)
-> ✅ Accessible, responsive designs
-> ✅ Professional UI component libraries
->
-> ### Backend Development
-> ✅ Robust API design with validation and error handling
-> ✅ Database schema optimization and indexing
-> ✅ Authentication and authorization (JWT, OAuth, role-based access)
-> ✅ Business logic implementation
-> ✅ Email services and background jobs (planned)
->
-> ### DevOps & Deployment
-> ✅ Docker containerization and multi-container orchestration
-> ✅ CI/CD pipeline setup with GitHub Actions
-> ✅ Production deployment on cloud platforms
-> ✅ Environment management and secrets handling
-> ✅ Monitoring, logging, and error tracking
->
-> ### AI Integration
-> ✅ Google Gemini API implementation
-> ✅ AI workflow orchestration with Genkit
-> ✅ Prompt engineering for optimal results
-> ✅ Handling AI-powered features in production
-> ✅ Fallback mechanisms and graceful degradation
->
-> ---
->
-> ## 📈 Project Statistics
->
-> | Metric | Count |
-> |--------|-------|
-> | **Production Projects** | 7 |
-> | **Live Deployments** | 7 |
-> | **GitHub Stars** | 50+ |
-> | **Total Commits** | 300+ |
-> | **Code Files** | 500+ |
-> | **Total Lines of Code** | 50,000+ |
-> | **Test Files** | 15+ |
-> | **API Endpoints** | 100+ |
->
-> ---
->
-> ## 🚀 What You Get When You Hire Me
->
-> ### ⚡ Fast Delivery
-> - Ship features quickly without compromising quality
-> - - Full-stack developer = no context switching delays
->   - - Proven ability to build complete systems in weeks
->     - - Production-ready code on day one
->      
->       - ### 🎯 Full-Stack Capability
->       - - Handle entire feature from database to UI
->         - - Reduce team coordination overhead
->           - - Scalable from MVP to enterprise
->             - - End-to-end responsibility and ownership
->               - 
-### 🏆 Production Excellence
-- Code that's actually deployed and live
-- - Real-world DevOps experience
-  - - Handles edge cases and error scenarios
-    - - Performance optimized (Lighthouse 90+)
-     
-      - ### 🤖 AI Integration Ready
-      - - Hands-on Google Gemini experience
-        - - Can add AI features to any project
-          - - Proven implementation patterns
-            - - Production-proven integrations
-             
-              - ### 📚 Well-Documented & Maintainable
-              - - Clear code with comprehensive comments
-                - - API documentation (Swagger/OpenAPI)
-                  - - Setup guides and deployment instructions
-                    - - Architecture decisions documented
-                     
-                      - ### 🔒 Security & Best Practices
-                      - - JWT authentication implementation
-                        - - Input validation and sanitization
-                          - - CORS protection
-                            - - Rate limiting
-                              - - SQL injection prevention with ORMs
-                               
-                                - ---
+**Full-Stack Developer** • Kerala, India • Open to Remote Opportunities
 
-                                ## 🎓 Learning & Growth
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/unnita)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:unnita1235@gmail.com)
 
-                                **Currently Mastering:**
-                                - Advanced WebSocket patterns (Socket.io) for real-time features
-                                - - WebRTC for video/voice communication
-                                  - - Advanced AI prompt engineering
-                                    - - Microservices architecture
-                                      - - Kubernetes & advanced DevOps
-                                       
-                                        - **Strong Foundation In:**
-                                        - - System design and scalability
-                                          - - Performance optimization
-                                            - - Security best practices
-                                              - - Clean code principles
-                                                - - Agile development methodologies
-                                                 
-                                                  - ---
+---
 
-                                                  ## 💬 What Others Say
+## About
 
-                                                  > *"Full-stack developer with production-grade output. Code is clean, deployed, and actually works in production."*
-                                                  >
-                                                  > > *"Quick learner. Delivers working systems, not just code. Understands DevOps and deployment challenges."*
-                                                  > >
-                                                  > > > *"Professional approach to problem-solving. Honest about project status and technical decisions."*
-                                                  > > >
-                                                  > > > ---
-                                                  > > >
-                                                  > > > ## 🌟 Key Differentiators
-                                                  > > >
-                                                  > > > 1. **Actually Deployed Projects:** Not just GitHub demos—these are live, production applications
-                                                  > > > 2. 2. **Full-Stack + DevOps:** Can handle infrastructure, not just code
-                                                  > > >    3. 3. **AI Integration Experience:** Proven Google Gemini implementation in production
-                                                  > > >       4. 4. **TypeScript Advocate:** Strict type safety across all projects
-                                                  > > >          5. 5. **Honest Communication:** Transparent about project status and timelines
-                                                  > > >             6. 6. **Performance-Focused:** All projects optimized (Lighthouse 90+)
-                                                  > > >                7. 7. **Team Player:** Clean, maintainable code for collaboration
+Self-taught developer with 4.5+ years of experience building full-stack applications. I focus on shipping working products with clean code and real functionality—no fake demos or placeholder features.
 
-                                                  ---
+**What I bring:**
+- End-to-end development from database design to deployment
+- AI integration experience (Google Gemini, Genkit)
+- Fast iteration and consistent shipping
 
-                                                  ## 📞 Let's Connect
+---
 
-                                                  - **Email:** [unnita1235@gmail.com](mailto:unnita1235@gmail.com)
-                                                  - - **GitHub:** [@unnita1235](https://github.com/unnita1235)
-                                                    - - **Location:** Ernakulam, Kerala, India 🇮🇳
-                                                     
-                                                      - **Open To:** Remote positions, full-stack roles, AI integration projects, and exciting challenges
-                                                     
-                                                      - ---
+## Tech Stack
 
-                                                      ## 📊 GitHub Stats
+**Frontend:** Next.js 15, React, TypeScript, Tailwind CSS, shadcn/ui
 
-                                                      <div align="center">
+**Backend:** Node.js, Express, MongoDB, Mongoose, JWT Auth, REST APIs
 
-                                                      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unnita1235&show_icons=true&theme=radical&count_private=true)
+**AI/ML:** Google Genkit, Gemini API, NLP Processing
 
-                                                      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unnita1235&layout=compact&theme=radical)
+**DevOps:** Vercel, Render, GitHub Actions, CI/CD
 
-                                                      </div>
+---
 
-                                                      ---
+## Featured Projects
 
-                                                      ## 🏆 Featured Tech Badges
+### [AI Resume Parser](https://ai-resume-parser-seven.vercel.app/) — Production Full-Stack
 
-                                                      <div align="center">
+My most complete project. AI-powered resume analysis with working frontend and backend.
 
-                                                      [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)](https://nextjs.org)
-                                                      [![React](https://img.shields.io/badge/React-18-blue?style=flat-square&logo=react)](https://react.dev)
-                                                      [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178c6?style=flat-square&logo=typescript)](https://www.typescriptlang.org)
-                                                      [![Node.js](https://img.shields.io/badge/Node.js-18+-green?style=flat-square&logo=node.js)](https://nodejs.org)
-                                                      [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green?style=flat-square&logo=mongodb)](https://www.mongodb.com)
-                                                      [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?style=flat-square&logo=postgresql)](https://www.postgresql.org)
-                                                      [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker)](https://www.docker.com)
-                                                      [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-AI-orange?style=flat-square&logo=google)](https://ai.google.dev)
-                                                      [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=flat-square&logo=vercel)](https://vercel.com)
+| Component | Status | Stack |
+|-----------|--------|-------|
+| Frontend | ✅ [Live](https://ai-resume-parser-seven.vercel.app/) | Next.js 15, TypeScript, Tailwind |
+| Backend | ✅ [Deployed](https://ai-resume-parser-0cmr.onrender.com) | Node.js, Express |
+| AI | ✅ Working | Google Genkit + Gemini 2.5 Flash |
 
-                                                      </div>
+**Features:** PDF/DOCX parsing, ATS optimization, tone enhancement, action verb improvements
 
-                                                      ---
+**Code:** [unnita1235/AI-Resume-Parser](https://github.com/unnita1235/AI-Resume-Parser) • 42 commits
 
-                                                      ## ⚡ Quick Links
+---
 
-                                                      📚 **[Check Out My Projects](https://github.com/unnita1235?tab=repositories)** | 🚀 **[Live Demos](#-featured-projects)** | 💼 **[Contact Me](mailto:unnita1235@gmail.com)**
+### [StockPilot](https://stock-pilot-wheat.vercel.app/) — Inventory Management System
 
-                                                      ---
+Full-stack inventory tracker with Express backend and MongoDB persistence.
 
-                                                      <div align="center">
+| Component | Status | Stack |
+|-----------|--------|-------|
+| Frontend | ✅ [Live](https://stock-pilot-wheat.vercel.app/) | Next.js 15, TypeScript, Recharts |
+| Backend | ✅ Built | Express, MongoDB, JWT |
+| API | ✅ RESTful | 15+ endpoints |
 
-                                                      **Built with ❤️ using Next.js, TypeScript, and modern web technologies**
+**Features:** CRUD operations, low stock alerts, movement tracking, demand forecasting, CSV export
 
-                                                      *Last Updated: January 2026 | Actively Hiring | Let's Build Something Amazing! 🚀*
+**Code:** [unnita1235/StockPilot](https://github.com/unnita1235/StockPilot) • 13 commits
 
-                                                      </div>
+---
+
+### [TenantVerse](https://tenant-verse-one.vercel.app/) — Multi-Tenant SaaS Platform
+
+Property management platform demonstrating multi-tenancy and RBAC patterns.
+
+| Component | Status | Stack |
+|-----------|--------|-------|
+| Frontend | ✅ [Live](https://tenant-verse-one.vercel.app/) | Next.js 15, TypeScript |
+| Backend | ✅ Built | Express, MongoDB, Stripe |
+| Auth | ✅ Working | JWT, Role-based access |
+
+**Features:** Multi-tenant isolation, subscription management, team invites, super admin panel
+
+**Code:** [unnita1235/TenantVerse](https://github.com/unnita1235/TenantVerse) • CI/CD with GitHub Actions
+
+---
+
+### [QuickBite](https://quick-bite-mu.vercel.app/) — AI-Powered Food Delivery UI
+
+Frontend-focused project demonstrating AI integration and modern React patterns.
+
+| Component | Status | Stack |
+|-----------|--------|-------|
+| Frontend | ✅ [Live](https://quick-bite-mu.vercel.app/) | Next.js 15, TypeScript |
+| AI Search | ✅ Working | Google Genkit + Gemini |
+| Data | LocalStorage | No backend DB |
+
+**Features:** Restaurant discovery, AI recommendations, cart management, responsive design
+
+**Note:** This is primarily a frontend demo with AI integration—data persists in localStorage, not a database.
+
+**Code:** [unnita1235/QuickBite](https://github.com/unnita1235/QuickBite) • 36 commits, 80+ tests
+
+---
+
+### [VendorConnect](https://vendor-connect-three.vercel.app/) — Multi-Vendor Marketplace
+
+E-commerce marketplace with Firebase integration. Core shopping features in development.
+
+| Component | Status | Stack |
+|-----------|--------|-------|
+| Frontend | ✅ [Live](https://vendor-connect-three.vercel.app/) | Next.js 15, TypeScript |
+| Backend | Firebase | Firestore, Storage |
+| E2E Tests | ✅ Setup | Playwright |
+
+**Built:** Product listings, vendor profiles, search functionality
+
+**In Progress:** Shopping cart, checkout, payment integration
+
+**Code:** [unnita1235/VendorConnect](https://github.com/unnita1235/VendorConnect) • 38 commits
+
+---
+
+### Other Projects
+
+| Project | Live Demo | Description | Status |
+|---------|-----------|-------------|--------|
+| [ConnectNow](https://connect-now-phi.vercel.app/) | [Demo](https://connect-now-phi.vercel.app/) | Real-time chat platform | UI complete, WebSocket/video in progress |
+| [MatchLink](https://match-link-tau.vercel.app/) | [Demo](https://match-link-tau.vercel.app/) | Matchmaking platform | Frontend demo, auth in progress |
+
+---
+
+## What I'm Looking For
+
+Seeking remote full-stack or backend roles where I can:
+- Build and ship real products
+- Work with modern TypeScript/Node.js stack
+- Contribute to meaningful applications
+
+**Target:** Full-time remote opportunities with US/EU companies
+
+---
+
+## Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unnita1235&layout=compact&hide=HTML&theme=default)
+
+---
+
+<sub>Last updated: January 2026 • All projects have live demos and source code available</sub>
