@@ -16,13 +16,13 @@
 
 ## 💫 About Me
 
-Self-taught developer building full-stack web applications. I enjoy solving problems, shipping features quickly, and learning new technologies. Currently focused on improving my backend and AI integration skills.
+Full-stack developer with experience building and deploying web applications. I focus on shipping features quickly, writing clean code, and integrating modern technologies like AI APIs.
 
-**What I'm working on:**
-- 🚀 Shipping projects from idea to deployment
-- 🤖 Learning AI integration with Google Gemini
-- 📚 Improving backend architecture patterns
-- �️ Getting better at DevOps (Docker, CI/CD)
+**Current Focus:**
+- 🚀 Building end-to-end applications (frontend to deployment)
+- 🤖 AI integration with Google Gemini
+- 🏗️ Backend architecture & API design
+- 🛠️ DevOps practices (Docker, CI/CD, cloud deployment)
 
 ---
 
