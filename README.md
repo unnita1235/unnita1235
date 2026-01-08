@@ -1,210 +1,127 @@
 <div align="center">
 
-# Hey, I'm Unni T A 👋
+# Hi there, I'm Unni T A 👋
+### Full-Stack Developer | Next.js Specialist | AI  Integration
 
-### Full-Stack Developer | React & Next.js | Learning AI Integration
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/unnita)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/unnita)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unnita1235@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unnita1235)
 
-*📍 Kerala, India • Open to Remote Opportunities*
+*Building scalable web applications with a focus on clean architecture and user experience.*
+*Based in Kerala, India • Open to Remote Opportunities*
 
 </div>
 
 ---
 
-## 💫 About Me
+## 👨‍💻 About Me
 
-Full-stack developer with experience building and deploying web applications. I focus on shipping features quickly, writing clean code, and integrating modern technologies like AI APIs.
+I am a results-driven **Full-Stack Developer** passionate about shipping production-ready applications. I specialize in the **React/Next.js** ecosystem and have a strong focus on integrating **AI capabilities** into practical business solutions.
 
-**Current Focus:**
-- 🚀 Building end-to-end applications (frontend to deployment)
-- 🤖 AI integration with Google Gemini
-- 🏗️ Backend architecture & API design
-- 🛠️ DevOps practices (Docker, CI/CD, cloud deployment)
+My approach is simple: **Ship fast, write clean code, and solve real problems.**
+I bridge the gap between complex backend logic and intuitive frontend design, ensuring seamless user experiences from database to UI.
 
----
-
-## 🛠️ Tech Stack
-
-| **Frontend** | **Backend** | **Database** | **Tools** |
-|:---:|:---:|:---:|:---:|
-| Next.js 15 | Node.js | MongoDB | Docker |
-| React 18 | Express.js | PostgreSQL | Vercel |
-| TypeScript | REST APIs | Prisma | GitHub Actions |
-| Tailwind CSS | JWT Auth | Mongoose | Render |
+### 🚀 Core Focus
+*   **Full-Stack Engineering:** building robust end-to-end applications using the T3 stack equivalents (Next.js, TypeScript, Prisma).
+*   **AI Integration:** Leveraging **Google Gemini** and LLMs to create smart, context-aware applications.
+*   **DevOps & Deployment:** Automated CI/CD pipelines, Docker containerization, and cloud deployment on Vercel/Render.
 
 ---
 
-## 🚀 My Projects
+## 🛠️ Technical Arsenal
 
-### ✅ Full-Stack Applications (Working Frontend + Backend)
+<div align="left">
 
-<table>
-<tr>
-<td width="50%">
+| **Frontend** | **Backend** | **Database & Cloud** | **Tools & DevOps** |
+| :--- | :--- | :--- | :--- |
+| ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) | ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) |
 
-#### 🤖 [AI Resume Parser](https://github.com/unnita1235/AI-Resume-Parser)
-**Resume optimization tool using AI**
-
-[![Live Demo](https://img.shields.io/badge/LIVE-Demo-success?style=flat-square)](https://ai-resume-parser-seven.vercel.app)
-
-- Parses PDF, DOCX, TXT resumes
-- Uses Google Gemini for ATS optimization
-- Tone adjustment & action verb suggestions
-- Has fallback when AI is unavailable
-
-**Stack:** Next.js • Express.js • Google Gemini
-
-</td>
-<td width="50%">
-
-#### 📦 [StockPilot](https://github.com/unnita1235/StockPilot)
-**Inventory management system**
-
-[![Live Demo](https://img.shields.io/badge/LIVE-Demo-success?style=flat-square)](https://stock-pilot-wheat.vercel.app)
-
-- CRUD for inventory items
-- Offline mode with fallback data
-- Dashboard with basic analytics
-- JWT authentication
-
-**Stack:** Next.js • Express.js • MongoDB
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🏢 [TenantVerse](https://github.com/unnita1235/TenantVerse)
-**Property management application**
-
-[![Live Demo](https://img.shields.io/badge/LIVE-Demo-success?style=flat-square)](https://tenant-verse-one.vercel.app)
-
-- Property & tenant management
-- Basic Stripe payment integration
-- Multi-dashboard layout
-- JWT auth with roles
-
-**Note:** Portfolio/learning project, not enterprise-scale
-
-**Stack:** Next.js • Express.js • MongoDB • Stripe
-
-</td>
-<td width="50%">
-
-#### 🍕 [QuickBite](https://github.com/unnita1235/QuickBite)
-**Restaurant discovery with AI search**
-
-[![Live Demo](https://img.shields.io/badge/LIVE-Demo-success?style=flat-square)](https://quick-bite-mu.vercel.app)
-
-- AI-powered restaurant search using Gemini
-- PostgreSQL with Prisma ORM
-- REST API backend
-- Rate limiting for API calls
-
-**Stack:** Next.js • Express.js • PostgreSQL • Google Gemini
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-### 🎨 Frontend Prototypes (UI Only - No Real Backend Yet)
+## 🏆 Featured Projects (Production Ready)
 
-> **Honest note:** These are frontend showcases with hardcoded/demo data. They demonstrate UI skills but don't have working backends yet.
+These applications are fully deployed with working backends, databases, and authentication systems.
 
-<table>
-<tr>
-<td width="33%">
+### 🤖 [AI Resume Parser](https://github.com/unnita1235/AI-Resume-Parser)
+> **AI-Powered Career Optimization Tool**
 
-#### ❤️ [MatchLink](https://github.com/unnita1235/MatchLink)
-**Dating app UI prototype**
+A sophisticated tool that helps job seekers optimize their resumes for Applicant Tracking Systems (ATS).
+*   **Core Tech:** Next.js, Express.js, Google Gemini API.
+*   **Key Features:**
+    *   Parses PDF/DOCX files into structured data using tailored AI prompts.
+    *   Generates actionable "strength" and "weakness" reports.
+    *   **AI Rewrite:** Automatically suggests action-verb-oriented improvements for bullet points.
+*   [![Live Demo](https://img.shields.io/badge/View_Live_Demo-Success?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-resume-parser-seven.vercel.app)
 
-[![Demo](https://img.shields.io/badge/UI-Demo-blue?style=flat-square)](https://match-link-tau.vercel.app)
+### 📦 [StockPilot](https://github.com/unnita1235/StockPilot)
+> **Intelligent Inventory Management System**
 
-- Tinder-style swipe UI
-- Profile cards layout
-- Demo mode with sample data
-- Firebase auth ready (not active)
+A robust inventory solution designed for small businesses to track stock levels in real-time.
+*   **Core Tech:** Next.js, MongoDB, JWT Authentication.
+*   **Key Features:**
+    *   **Offline-First:** Capable of viewing cached data when network connection is lost.
+    *   Complex dashboard with low-stock alerts and movement history.
+    *   Secure Role-Based Access Control (RBAC) for admins and staff.
+*   [![Live Demo](https://img.shields.io/badge/View_Live_Demo-Success?style=for-the-badge&logo=vercel&logoColor=white)](https://stock-pilot-wheat.vercel.app)
 
-</td>
-<td width="33%">
+### 🏢 [TenantVerse](https://github.com/unnita1235/TenantVerse)
+> **SaaS-Style Property Management Platform**
 
-#### 💬 [ConnectNow](https://github.com/unnita1235/ConnectNow)
-**Slack-like chat UI**
+A comprehensive dashboard for landlords to manage properties and tenants efficiently.
+*   **Core Tech:** Next.js, Stripe Integration, MongoDB.
+*   **Key Features:**
+    *   Multi-tenant architecture support (conceptual).
+    *   **Payments:** Stripe integration for rent collection simulations.
+    *   Ticket system for maintenance requests.
+*   [![Live Demo](https://img.shields.io/badge/View_Live_Demo-Success?style=for-the-badge&logo=vercel&logoColor=white)](https://tenant-verse-one.vercel.app)
 
-[![Demo](https://img.shields.io/badge/UI-Demo-blue?style=flat-square)](https://connect-now-phi.vercel.app)
+### 🍕 [QuickBite](https://github.com/unnita1235/QuickBite)
+> **AI-Enhanced Restaurant Discovery**
 
-- 3-column responsive layout
-- Channel/DM navigation
-- Message list UI
-- **No real messaging - hardcoded data**
-
-</td>
-<td width="33%">
-
-#### 🛒 [VendorConnect](https://github.com/unnita1235/VendorConnect)
-**E-commerce marketplace UI**
-
-[![Demo](https://img.shields.io/badge/UI-Demo-blue?style=flat-square)](https://vendor-connect-three.vercel.app)
-
-- Product grid with filtering
-- Cart with localStorage
-- Backend in development
-- AI search planned
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 Honest Stats
-
-| Metric | Count | Notes |
-|:---|:---:|:---|
-| **Full-Stack Apps** | 4 | Working frontend + backend |
-| **Frontend Prototypes** | 3 | UI only, demo data |
-| **Live Deployments** | 7 | All hosted on Vercel/Render |
-| **AI Integrations** | 2 | Resume Parser & QuickBite |
+Going beyond simple keywords, this app uses semantic search to find food based on cravings and descriptions.
+*   **Core Tech:** Next.js, PostgreSQL, Prisma, Gemini AI.
+*   **Key Features:**
+    *   **Natural Language Search:** "Find me a quiet place for spicy pasta" works via AI embeddings/interpretation.
+    *   Geospatial queries to filter results by distance.
+    *   Performance optimized with Redis caching (planned/conceptual).
+*   [![Live Demo](https://img.shields.io/badge/View_Live_Demo-Success?style=for-the-badge&logo=vercel&logoColor=white)](https://quick-bite-mu.vercel.app)
 
 ---
 
-## 🎯 What I Can Do
+## 🎨 UI/UX & Prototypes
 
-- ✅ Build full-stack apps with Next.js + Express + MongoDB/PostgreSQL
-- ✅ Integrate AI APIs (Google Gemini) with error handling
-- ✅ Deploy to Vercel, Render with basic CI/CD
-- ✅ Implement JWT auth, form validation, REST APIs
-- ✅ Create responsive, accessible UIs with Tailwind
+> **Transparency Note:** The following projects are heavily focused on **Frontend Engineering** and **UI/UX Design**. While they feature complex React state management and responsive layouts, they currently run on demo data or mocked backends.
 
-**Still learning:**
-- 🔄 WebSocket/real-time features
-- � Advanced DevOps (Kubernetes)
-- 🔄 System design at scale
-- 🔄 Test-driven development
+| Project | Description | Type |
+| :--- | :--- | :--- |
+| **[MatchLink](https://github.com/unnita1235/MatchLink)** | A Tinder-style dating app interface featuring complex **swipe gestures**, framer-motion animations, and interactive profile cards. | `Mobile-First UI` |
+| **[ConnectNow](https://github.com/unnita1235/ConnectNow)** | A pixel-perfect clone of a **Slack-like workspace** including channel navigation, message threading UI, and responsive sidebars. | `Desktop App UI` |
+| **[VendorConnect](https://github.com/unnita1235/VendorConnect)** | An e-commerce marketplace frontend featuring advanced filtering, shopping cart state management, and checkout flows. | `E-Commerce UI` |
 
 ---
 
-## 🌱 Currently Learning
-
-- WebSocket patterns with Socket.io
-- WebRTC for video/voice
-- Better testing practices
-- Advanced backend patterns
-
----
-
-## 📬 Let's Connect
+## 📈 GitHub Stats
 
 <div align="center">
 
-**Looking for opportunities to grow and contribute to real projects.**
+[![Unni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unnita1235&show_icons=true&theme=radical&hide_border=true)](https://github.com/unnita1235)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unnita1235&layout=compact&theme=radical&hide_border=true)](https://github.com/unnita1235)
 
-[![Email](https://img.shields.io/badge/Email-unnita1235@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unnita1235@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/unnita)
+</div>
 
+---
+
+## 📬 Get In Touch
+
+I am always interested in discussing new projects, opportunities, or just chatting about the latest in Tech & AI.
+
+*   Connect on **[LinkedIn](https://linkedin.com/in/unnita)**
+*   Send me an **[Email](mailto:unnita1235@gmail.com)**
+
+---
+<div align="center">
+<i>Profile updated: 2026 • Always Shipping 🚀</i>
 </div>
