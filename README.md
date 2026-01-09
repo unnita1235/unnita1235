@@ -2,15 +2,14 @@
 
 ## Full-Stack Developer | MERN Stack Specialist | AI Integration Enthusiast
 
-**Location:** Kerala, India  
-**Experience:** 4.5+ years in web development  
+**Location:** Kerala, India    
 **Email:** unnita1235@gmail.com
 
 ---
 
 ## 🚀 About Me
 
-Self-taught full-stack developer with expertise in building production-ready web applications. Passionate about clean code, modern architecture, and solving real-world problems through technology.
+ full-stack developer with expertise in building production-ready web applications. Passionate about clean code, modern architecture, and solving real-world problems through technology.
 
 ### Core Competencies
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS
