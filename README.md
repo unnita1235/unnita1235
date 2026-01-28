@@ -1,166 +1,40 @@
 # Hi, I'm Unni T A 👋
 
-## Full-Stack Developer | MERN Stack Specialist | AI Integration Enthusiast
+Full-Stack Developer | MERN Stack Enthusiast | AI Integration Learner
 
-**Location:** Kerala, India    
-**Email:** unnita1235@gmail.com
+I'm a self-taught developer from Ernakulam, Kerala, India, with a focus on building web applications using modern technologies. My projects are prototypes designed to explore full-stack development and AI features, helping me gain practical experience. I'm eager to contribute to real-world teams and am open to remote junior roles in full-stack development.
 
----
+📫 **Reach me at**: [unnita1235@gmail.com](mailto:unnita1235@gmail.com) | [LinkedIn](https://www.linkedin.com/in/unnita)
 
-## 🚀 About Me
+## Skills
+- **Frontend**: Next.js 15, React, TypeScript, Tailwind CSS, shadcn/ui
+- **Backend**: Node.js, Express.js, MongoDB, Firebase
+- **AI/ML**: Basic integrations with Google Gemini/Genkit for recommendations and parsing
+- **Tools**: Git, Vercel deployments, Snyk for security, JWT authentication, Socket.io
+- **Other**: Responsive design, basic testing with Vitest, CI/CD via GitHub Actions
 
- full-stack developer with expertise in building production-ready web applications. Passionate about clean code, modern architecture, and solving real-world problems through technology.
+These skills come from hands-on prototyping; I'm building depth through ongoing practice.
 
-### Core Competencies
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express, MongoDB, PostgreSQL
-- **AI/ML:** Google Gemini integration, AI-powered features
-- **Tools:** Git, Docker, Vercel, Railway, Firebase
+## Key Projects
+These are my recent prototypes, each built to demonstrate specific aspects of full-stack work. They're not production apps but show my ability to integrate frontend, backend, and AI elements.
 
----
+- **[StockPilot](https://github.com/unnita1235/StockPilot)**: An inventory management tool with real-time tracking and basic AI forecasting. Features include CRUD operations and analytics. Tech: Next.js, Express, MongoDB. [Live Demo](https://stock-pilot-wheat.vercel.app)
+- **[QuickBite](https://github.com/unnita1235/QuickBite)**: AI-powered food delivery prototype for restaurant recommendations. Includes search and cart functionality with static data. Tech: Next.js, TypeScript, Google Genkit. [Live Demo](https://quick-bite-mu.vercel.app)
+- **[AI-Resume-Parser](https://github.com/unnita1235/AI-Resume-Parser)**: A tool for parsing and optimizing resumes using AI for ATS compatibility. Supports file uploads. Tech: Next.js, Gemini. [Live Demo](https://ai-resume-parser-seven.vercel.app)
+- **[TenantVerse](https://github.com/unnita1235/TenantVerse)**: Property management SaaS prototype with multi-tenancy and planned payments. Tech: Next.js, Express, MongoDB. [Live Demo](https://tenant-verse-one.vercel.app)
+- **[ConnectNow](https://github.com/unnita1235/ConnectNow)**: Messaging app prototype inspired by Slack, with real-time chat elements. Tech: Next.js, Socket.io. [Live Demo](https://connect-now-phi.vercel.app)
+- **[VendorConnect](https://github.com/unnita1235/VendorConnect)**: Multi-vendor e-commerce marketplace prototype. Tech: Next.js, Firebase. [Live Demo](https://vendor-connect-three.vercel.app)
+- **[MatchLink](https://github.com/unnita1235/MatchLink)**: Matchmaking app prototype with AI compatibility hints. Tech: Next.js, TypeScript. [Live Demo](https://match-link-tau.vercel.app)
 
-## 💼 Featured Projects
+## What I'm Working On
+- Expanding prototypes with full backend implementations and scalability features.
+- Contributing to open-source projects to gain collaborative experience.
+- Learning advanced topics like cloud deployment and performance optimization.
 
-### 1. [QuickBite](https://github.com/unnita1235/QuickBite) - AI-Powered Food Delivery
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://quick-bite-mu.vercel.app/)
-[![Next.js](https://img.shields.io/badge/Next.js-15-black)](https://nextjs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-blue)](https://www.typescriptlang.org/)
+## GitHub Stats
+![Unni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unnita1235&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unnita1235&layout=compact&theme=transparent)
 
-Modern food delivery platform with AI-powered restaurant recommendations using Google Gemini.
+Thanks for checking out my profile! I'm committed to honest growth and welcome feedback.
 
-**Tech Stack:** Next.js 15, TypeScript, Google Genkit, Tailwind CSS  
-**Highlights:** 80+ comprehensive tests, AI-powered search, responsive design  
-**Live:** https://quick-bite-mu.vercel.app/
-
----
-
-### 2. [AI Resume Parser](https://github.com/unnita1235/AI-Resume-Parser) - Smart Resume Optimization
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://ai-resume-parser-seven.vercel.app/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-87%25-blue)](https://www.typescriptlang.org/)
-
-AI-powered tool for ATS optimization, tone adjustment, and resume enhancement.
-
-**Tech Stack:** Next.js 15, TypeScript, Google Gemini, Python backend  
-**Highlights:** Real-time AI enhancement, file upload (PDF/DOCX), production-ready  
-**Live:** https://ai-resume-parser-seven.vercel.app/
-
----
-
-### 3. [TenantVerse](https://github.com/unnita1235/TenantVerse) - Multi-Tenant SaaS Platform
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://tenant-verse-one.vercel.app)
-[![CI](https://github.com/unnita1235/TenantVerse/workflows/CI/badge.svg)](https://github.com/unnita1235/TenantVerse/actions)
-
-Enterprise-grade property management platform with multi-tenancy and RBAC.
-
-**Tech Stack:** Next.js 15, Express, MongoDB, Stripe, JWT  
-**Highlights:** Role-based access, subscription management, CI/CD pipeline  
-**Live:** https://tenant-verse-one.vercel.app
-
----
-
-### 4. [StockPilot](https://github.com/unnita1235/StockPilot) - Inventory Management System
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://stock-pilot-wheat.vercel.app)
-
-Full-stack inventory management with forecasting and analytics.
-
-**Tech Stack:** Next.js 15, Express, MongoDB, Recharts  
-**Highlights:** Stock tracking, movement history, demand forecasting  
-**Live:** https://stock-pilot-wheat.vercel.app
-
----
-
-### 5. [ConnectNow](https://github.com/unnita1235/ConnectNow) - Real-Time Messaging Platform
-[![Status](https://img.shields.io/badge/status-in_development-orange)](https://github.com/unnita1235/ConnectNow)
-
-Modern communication platform with real-time chat and video calls (WebRTC).
-
-**Tech Stack:** Next.js 15, Socket.io, WebRTC, PostgreSQL, Redis  
-**Highlights:** Real-time messaging, video call architecture, team collaboration  
-**Live:** https://connect-now-phi.vercel.app
-
----
-
-### 6. [VendorConnect](https://github.com/unnita1235/VendorConnect) - Multi-Vendor Marketplace
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://vendor-connect-three.vercel.app/)
-
-E-commerce marketplace platform connecting multiple vendors.
-
-**Tech Stack:** Next.js 15, Firebase, TypeScript  
-**Highlights:** Multi-vendor support, product management, responsive design  
-**Live:** https://vendor-connect-three.vercel.app/
-
----
-
-### 7. [MatchLink](https://github.com/unnita1235/MatchLink) - AI Matchmaking Platform
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://match-link-tau.vercel.app/)
-
-Modern matchmaking platform with AI-powered compatibility matching.
-
-**Tech Stack:** Next.js 15, TypeScript, Tailwind CSS  
-**Highlights:** Profile discovery, AI matcher, subscription packages  
-**Live:** https://match-link-tau.vercel.app/
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unnita1235&show_icons=true&theme=radical)
-
----
-
-## 🛠️ Technical Skills
-
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
----
-
-## 🎯 What I'm Working On
-
-- 🔨 Building production-ready full-stack applications
-- 🤖 Integrating AI/ML features with Google Gemini
-- 📚 Learning system design and scalable architectures
-- 🌐 Contributing to open-source projects
-
----
-
-## 📫 Connect With Me
-
-- **Email:** unnita1235@gmail.com
-- **GitHub:** [@unnita1235](https://github.com/unnita1235)
-- **LinkedIn:** [linkedin.com/in/unnita](https://linkedin.com/in/unnita)
-
----
-
-## 🌟 Quick Facts
-
-- 💼 Open to remote full-stack developer opportunities
-- 🎓 Self-taught developer with strong problem-solving skills
-- 🚀 Fast learner with ability to ship quality code quickly
-- 🌍 Based in Kerala, India (Open to work with US/EU companies)
-- 📝 Currently seeking $70k-$110k USD salary range
-
----
-
-**"Code is poetry, and I write in verses of TypeScript"** 💻✨
-
----
-
-*Last Updated: January 2025*
+*Updated: January 2026*
