@@ -2,7 +2,7 @@
 
 Full-Stack Developer | MERN Stack Enthusiast | AI Integration Learner
 
-I'm a self-taught developer from Ernakulam, Kerala, India, with a focus on building web applications using modern technologies. My projects are prototypes designed to explore full-stack development and AI features, helping me gain practical experience. I'm eager to contribute to real-world teams and am open to remote junior roles in full-stack development.
+I'm a  developer from Ernakulam, Kerala, India, with a focus on building web applications using modern technologies. My projects are prototypes designed to explore full-stack development and AI features, helping me gain practical experience. I'm eager to contribute to real-world teams and am open to remote junior roles in full-stack development.
 
 📫 **Reach me at**: [unnita1235@gmail.com](mailto:unnita1235@gmail.com) | [LinkedIn](https://www.linkedin.com/in/unnita)
 
